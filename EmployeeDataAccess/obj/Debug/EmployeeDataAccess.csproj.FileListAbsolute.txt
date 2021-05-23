@@ -1,0 +1,10 @@
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\hassan farooqui\WebApiDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
